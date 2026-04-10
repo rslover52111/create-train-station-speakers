@@ -39,5 +39,4 @@ public class CreateTrainStationSpeakers {
     public CreateTrainStationSpeakers(FMLJavaModLoadingContext context) {
         IEventBus modEventBus = context.getModEventBus();
     }
-    
 }
